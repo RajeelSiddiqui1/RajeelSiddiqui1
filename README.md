@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>## 🔭 I’m currently working on<br><br>Developing dynamic web pages using **Laravel Blade, Next.js, and the MERN stack** at MHN Enterprises.<br><br>## 👯 I’m looking to collaborate on<br><br>**Full-Stack projects** involving **Next.js and Django** to build scalable web applications and RESTful APIs.<br><br>## 🤝 I’m looking for help with<br><br>Mastering **Agentic AI** and advanced AI implementation techniques.<br><br>## 🌱 I’m currently learning<br><br>**Agentic Artificial Intelligence** at PIAIC and completing my **Diploma in Web Development** at Aptech.<br><br>## 💬 Ask me about<br><br>**React.js, Next.js, Django**, or modern UI libraries like **Shadcn, Aceternity, and DaisyUI**.<br><br>## ⚡ Fun fact<br><br>I Love circket
+<br>🔭 I’m currently working on<br><br>Developing dynamic web pages using **Laravel Blade, Next.js, and the MERN stack** at MHN Enterprises.<br>👯 I’m looking to collaborate on<br><br>**Full-Stack projects** involving **Next.js and Django** to build scalable web applications and RESTful APIs.<br><br>🤝 I’m looking for help with<br><br>Mastering **Agentic AI** and advanced AI implementation techniques.<br><br>## 🌱 I’m currently learning<br><br>**Agentic Artificial Intelligence** at PIAIC and completing my **Diploma in Web Development** at Aptech.<br><br>💬 Ask me about<br><br>**React.js, Next.js, Django**, or modern UI libraries like **Shadcn, Aceternity, and DaisyUI**.<br><br>⚡ Fun fact<br><br>I Love circket and movies
 
 
 ## 🌐 Socials:
@@ -8,12 +8,18 @@
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RajeelSiddiqui1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RajeelSiddiqui1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeelSiddiqui1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RajeelSiddiqui1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RajeelSiddiqui1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeelSiddiqui1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RajeelSiddiqui1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RajeelSiddiqui1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RajeelSiddiqui1&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RajeelSiddiqui1&icon=0&color=0)](https://visitcount.itsvg.in)
