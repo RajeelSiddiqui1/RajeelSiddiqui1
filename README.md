@@ -12,7 +12,7 @@ Mastering **Agentic AI** and advanced AI implementation techniques.
 **Diploma in Web Development** at Aptech.
 
 💬 Ask me about
-**Mern Stack, Next.js, Docker, Kubernetes, AWS, ArgoCD**.
+**Mern Stack, Next.js, Docker, Kubernetes, AWS, CI/CD**.
 
 ⚡ Fun fact
 I love cricket, movies, and solving complex infrastructure challenges.
