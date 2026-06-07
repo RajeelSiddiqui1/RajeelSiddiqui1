@@ -18,7 +18,7 @@ Mastering **Agentic AI** and advanced AI implementation techniques.
 I love cricket, movies, and solving complex infrastructure challenges.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rajeel Siddiqui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/rajeel-siddiqui-60532529b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeelsiddiqui3@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/rajeel-siddiqui-60532529b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeelsiddiqui3@gmail.com) 
 
 # 💻 Tech Stack:
 **DevOps & Cloud:**
