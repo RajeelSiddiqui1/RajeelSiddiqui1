@@ -9,7 +9,7 @@ Developing robust web applications and automated infrastructure as a **Full-Stac
 Mastering **Agentic AI** and advanced AI implementation techniques.
 
 ## 🌱 I’m currently learning
-**Agentic Artificial Intelligence** at PIAIC and completing my **Diploma in Web Development** at Aptech.
+**Diploma in Web Development** at Aptech.
 
 💬 Ask me about
 **React.js, Next.js, Django, Docker, Kubernetes, AWS, ArgoCD**, or modern UI libraries like **Shadcn, Aceternity, and DaisyUI**.
