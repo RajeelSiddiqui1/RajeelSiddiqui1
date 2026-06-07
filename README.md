@@ -12,7 +12,7 @@ Mastering **Agentic AI** and advanced AI implementation techniques.
 **Diploma in Web Development** at Aptech.
 
 💬 Ask me about
-**React.js, Next.js, Django, Docker, Kubernetes, AWS, ArgoCD**, or modern UI libraries like **Shadcn, Aceternity, and DaisyUI**.
+**Mern Stack, Next.js, Docker, Kubernetes, AWS, ArgoCD**.
 
 ⚡ Fun fact
 I love cricket, movies, and solving complex infrastructure challenges.
